@@ -53,3 +53,5 @@ Bonus:
 Create a script (or a Hardhat task) to query the total amount of ETH held in the contract.
 
 _You can use any library you prefer: Ethers.js, Web3.js, Web3.py, eth-brownie_
+
+Contract address: **0xB3F88A47141F50cD9C0fB5d1f7a732461cB24e7C**
